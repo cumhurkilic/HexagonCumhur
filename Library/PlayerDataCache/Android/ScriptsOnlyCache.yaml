@@ -82,9 +82,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14068}
     - Class: 114
-      Script: {instanceID: 14582}
+      Script: {instanceID: 14584}
     - Class: 114
-      Script: {instanceID: 14776}
+      Script: {instanceID: 14778}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -139,15 +139,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14068}
     - Class: 114
-      Script: {instanceID: 14148}
+      Script: {instanceID: 14140}
     - Class: 114
-      Script: {instanceID: 14546}
+      Script: {instanceID: 14150}
     - Class: 114
-      Script: {instanceID: 14686}
+      Script: {instanceID: 14548}
     - Class: 114
-      Script: {instanceID: 14776}
+      Script: {instanceID: 14688}
     - Class: 114
-      Script: {instanceID: 35924}
+      Script: {instanceID: 14778}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -220,15 +220,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14102}
     - Class: 114
-      Script: {instanceID: 14390}
+      Script: {instanceID: 14392}
     - Class: 114
-      Script: {instanceID: 14582}
+      Script: {instanceID: 14584}
     - Class: 114
-      Script: {instanceID: 14738}
+      Script: {instanceID: 14740}
     - Class: 114
-      Script: {instanceID: 14776}
+      Script: {instanceID: 14778}
     - Class: 114
-      Script: {instanceID: 14796}
+      Script: {instanceID: 14798}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -878,6 +878,12 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
+      Hash: 934941722b565628aec8107146cd3f7c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameData
+  - hash:
+      serializedVersion: 2
       Hash: e29bf324bb2fde60466aab5f3345e503
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -1098,12 +1104,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 934941722b565628aec8107146cd3f7c
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameData
   platform: 13
   scenePathNames:
   - Assets/Scenes/Menu.unity
